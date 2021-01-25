@@ -1,0 +1,6 @@
+D:\SHARP\TMS.Net07.Lesson1\bin\Debug\TMS.Net07.Lesson1.exe.config
+D:\SHARP\TMS.Net07.Lesson1\bin\Debug\TMS.Net07.Lesson1.exe
+D:\SHARP\TMS.Net07.Lesson1\bin\Debug\TMS.Net07.Lesson1.pdb
+D:\SHARP\TMS.Net07.Lesson1\obj\Debug\TMS.Net07.Lesson1.csproj.CoreCompileInputs.cache
+D:\SHARP\TMS.Net07.Lesson1\obj\Debug\TMS.Net07.Lesson1.exe
+D:\SHARP\TMS.Net07.Lesson1\obj\Debug\TMS.Net07.Lesson1.pdb
